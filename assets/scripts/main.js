@@ -4,7 +4,7 @@ const books = [];
 const RENDER_EVENT = "book-render";
 const STORAGE_KEY = "book-app";
 
-const id = document.getElementById("inputBookID");
+const id = document.getElementById("input-book-id");
 const title = document.getElementById("inputBookTitle");
 const author = document.getElementById("inputBookAuthor");
 const publisher = document.getElementById("inputBookPublisher");
